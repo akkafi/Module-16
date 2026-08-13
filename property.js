@@ -22,4 +22,7 @@ const boyos = person['age'];
 console.log(boyos)
 
 // console.log(person."fev places")
-console.log(person["fev places"])
+console.log(person["fev places"]);
+
+const keyName = 'profession';
+console.log(person[keyName])
